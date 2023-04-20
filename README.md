@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>  *  transplex a sonar like project written in typescript<br>  * own bare metal infrastructure<br>       * using Argocd<br>       * Kafka<br>       * vault with 1password<br>       * terraform runners<br>🌱 I’m currently learning AI stuff. why is it all in Python?
+🔭 I’m currently working on:<br> 
+*  transplex a sonar like project written in typescript<br>  
+*  own bare metal infrastructure<br>      
+  *  using Argocd<br>       
+  *  Kafka<br>       
+  * vault with 1password<br>       
+* terraform runners<br>🌱 I’m currently learning AI stuff. why is it all in Python?
 
 
 ## 🌐 Socials:
